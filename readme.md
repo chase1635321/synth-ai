@@ -5,10 +5,13 @@
 - Pull synth presets from git repository folders
 - Use https://github.com/ideoforms/pylive
 - Leave running overnight Friday, will record videos for entire week, upload to youtube, then shut down
+- Layer output log semi-transparent over video
+- Generate sheet music/midi files for upload
 ## Lead line
 - Use 1 moog mother 32's for main melody
 - Send MIDI to moog, start with random notes, eventually learn melodies based on melody banks or from playing
 - Add actuators to moog so Ableton can change filter parameters
+- Vibrato option
 ## Countermelody
 - Randomly choose one of the omnisphere hardware options
 - Could be like blade runner synth
@@ -29,7 +32,9 @@
 - May or may not follow chords
 ## High arps
 - 25% chance to be in song
-- 
+## FX
+- Add sweeps and hits
+- Add light kick parts
 ## Other
 - Random tempo each time
 
