@@ -25,6 +25,7 @@
  - ML could generate several note sequences, z3 modulates them to be as similar as possible, still with chord
  - Use fluid simulators to give melodies/transitions more "flow"
  - Use google interpolate for transitions
+ - z3 solve which instruments to use based on placement in sonic space
 
 ### Stage 4: Visuals
 - Transfer to dedicated computer (dell laptop)
