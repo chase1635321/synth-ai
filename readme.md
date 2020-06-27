@@ -20,6 +20,7 @@
  - Add additional melody contraints based on genre
  - Use z3 to pick melody note combinations
  - Use z3 to pick melody patterns
+ - Use z3 to relate note speed and release time
 
 ### Stage 4: Visuals
 - Transfer to dedicated computer (dell laptop)
