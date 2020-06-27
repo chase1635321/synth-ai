@@ -1,4 +1,41 @@
 # Synth AI
+
+## Plan
+### Stage 1: Basics
+- Generate background pads, play melody over it
+- Generate melodies, control cutoffs, etc
+- Use this to build song structure: intro, verse, chorus, etc
+
+### Stage 2: Intermediate
+- Choose between different melody types and sounds
+- Various midrange instrument types
+- High instrument additions
+- Variations on background pad
+- Add cutoff interpolations
+
+### Stage 3: Advanced
+- Use true AI techniques
+ - Use ML to choose melody/chord note list that match emotional coloring on 2d plane
+ - Use z3 to pick chord patterns
+ - Add additional melody contraints based on genre
+ - Use z3 to pick melody note combinations
+ - Use z3 to pick melody patterns
+
+### Stage 4: Visuals
+- Transfer to dedicated computer (dell laptop)
+- Add [spectrum visualizer](https://www.amazon.com/Nobsound-1424-Analizador-espectro-fidelidad/dp/B014KLRU9I/ref=sr_1_8?dchild=1&keywords=spectrum+visualizer&qid=1593227841&sr=8-8) or [DIY one](https://create.arduino.cc/projecthub/shajeeb/32-band-audio-spectrum-visualizer-analyzer-902f51)
+- Add colored background lighting, set with ableton
+- New camera with bokeh
+
+### Stage 5: Upload
+- Automatically record video, sync with audio and upload to YouTube
+- Add log output to youtube comment, video, or description
+- Generate and upload sheet music
+- Upload midi files
+- Generate patch list and description
+
+---
+
 ## General
 - Generate youtube videos each day/week, automatically upload them to youtube and website
 - Have an intensity value over time that everything adjusts to.
