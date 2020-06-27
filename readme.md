@@ -7,6 +7,7 @@
 - Leave running overnight Friday, will record videos for entire week, upload to youtube, then shut down
 - Layer output log semi-transparent over video
 - Generate sheet music/midi files for upload
+- Script audacity with python, generate paulstretched pads
 ## Lead line
 - Use 1 moog mother 32's for main melody
 - Send MIDI to moog, start with random notes, eventually learn melodies based on melody banks or from playing
