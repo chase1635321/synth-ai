@@ -20,7 +20,9 @@
  - Add additional melody contraints based on genre
  - Use z3 to pick melody note combinations
  - Use z3 to pick melody patterns
+ - Use z3 to alter melodies to fit chords
  - Use z3 to relate note speed and release time
+ - ML could generate several note sequences, z3 modulates them to be as similar as possible, still with chord
 
 ### Stage 4: Visuals
 - Transfer to dedicated computer (dell laptop)
