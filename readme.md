@@ -24,6 +24,7 @@
  - Use z3 to relate note speed and release time
  - ML could generate several note sequences, z3 modulates them to be as similar as possible, still with chord
  - Use fluid simulators to give melodies/transitions more "flow"
+ - Use google interpolate for transitions
 
 ### Stage 4: Visuals
 - Transfer to dedicated computer (dell laptop)
