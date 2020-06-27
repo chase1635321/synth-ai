@@ -3,6 +3,7 @@
 ## Plan
 ### Stage 1: Basics
 - Generate background pads, play melody over it
+- Create graph of chord sequence biases
 - Generate melodies, control cutoffs, etc
 - Use this to build song structure: intro, verse, chorus, etc
 
