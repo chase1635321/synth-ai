@@ -6,6 +6,7 @@
 - Create graph of chord sequence biases
 - Generate melodies, control cutoffs, etc
 - Use this to build song structure: intro, verse, chorus, etc
+- Create cli to use interactivley
 
 ### Stage 2: Intermediate
 - Choose between different melody types and sounds
