@@ -34,6 +34,7 @@
 - Add [spectrum visualizer](https://www.amazon.com/Nobsound-1424-Analizador-espectro-fidelidad/dp/B014KLRU9I/ref=sr_1_8?dchild=1&keywords=spectrum+visualizer&qid=1593227841&sr=8-8) or [DIY one](https://create.arduino.cc/projecthub/shajeeb/32-band-audio-spectrum-visualizer-analyzer-902f51)
 - Add colored background lighting, set with ableton
 - New camera with bokeh
+- Blue front lighting, red back lighting
 
 ### Stage 5: Upload
 - Automatically record video, sync with audio and upload to YouTube
