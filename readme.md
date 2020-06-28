@@ -52,6 +52,8 @@
 - Layer output log semi-transparent over video
 - Generate sheet music/midi files for upload
 - Script audacity with python, generate paulstretched pads
+- Feed song through iZotope to isolate drums, melodies, vocals, etc. Generate synth patch based on this information, automatically cover that song.
+
 ## Lead line
 - Use 1 moog mother 32's for main melody
 - Send MIDI to moog, start with random notes, eventually learn melodies based on melody banks or from playing
