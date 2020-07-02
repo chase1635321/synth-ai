@@ -48,6 +48,7 @@
 
 ## General
 - Generate youtube videos each day/week, automatically upload them to youtube and website
+- Write synth piece fopr 5.1 with rotating head
 - Have an intensity value over time that everything adjusts to.
 - Pull synth presets from git repository folders
 - Use https://github.com/ideoforms/pylive
