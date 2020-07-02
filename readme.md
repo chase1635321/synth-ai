@@ -7,6 +7,7 @@
 - Generate melodies, control cutoffs, etc
 - Use this to build song structure: intro, verse, chorus, etc
 - Create cli to use interactivley
+- DL extract top notes and bass notes from piano track, send to 2 modular LFOs
 
 ### Stage 2: Intermediate
 - Choose between different melody types and sounds
